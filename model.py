@@ -1,3 +1,4 @@
+# day 2: model building
 """
 PyTorch building blocks for compound-token market sequence modeling.
 
